@@ -1,4 +1,4 @@
-
+# Appwrite complete self Hosting Setup in Ubuntu 22 for Raspberry Pi 4
 ---
 
 ## Ubuntu 22 Setup for Raspberry Pi 4
