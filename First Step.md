@@ -1,7 +1,22 @@
+# Appwrite self Hosting Setup in Ubuntu 22 for Raspberry Pi 4
 
 ---
 
-# Appwrite self Hosting Setup in Ubuntu 22 for Raspberry Pi 4
+## Table of Contents
+
+- [Flash Ubuntu 22 Server 64-bit to SD Card](#flash-ubuntu-22-server-64-bit-to-sd-card)
+- [Static IP address configuration setup](#static-ip-address-configuration-setup)
+- [Port forwarding](#port-forwarding)
+- [SSH Setup with Different Port and Key File](#ssh-setup-with-different-port-and-key-file)
+- [Nginx Reverse Proxy Setup](#nginx-reverse-proxy-setup)
+- [ddclient Google domains DNS setup](#ddclient-google-domains-dns-setup)
+- [Firewall Security Setup](#firewall-security-setup)
+  - [Firewall Configuration](#firewall-configuration)
+- [Docker Installation Setup](#docker-installation-setup)
+
+
+---
+
 
 ## Flash Ubuntu 22 Server 64-bit to SD Card
 
