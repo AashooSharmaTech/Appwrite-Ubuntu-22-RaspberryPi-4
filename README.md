@@ -13,7 +13,7 @@
 
 This section provides instructions for the initial setup of Appwrite, including installation and basic configuration.
 
-[Check Out this Setup](./First Step for Appwrite.md)
+[Check Out this Setup](./First-setup-for-Appwrite.md)
 
 ---
 
@@ -21,7 +21,7 @@ This section provides instructions for the initial setup of Appwrite, including 
 
 This section covers additional setup steps for Appwrite, such as configuring integrations and services.
 
-[Check Out this Setup](./Second setup for Appwrite.md)
+[Check Out this Setup](./Second-setup-for-Appwrite.md)
 
 ---
 
