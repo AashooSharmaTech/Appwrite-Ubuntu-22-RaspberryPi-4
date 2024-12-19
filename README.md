@@ -1,5 +1,5 @@
 
-# Appwrite self Hosting Setup in Ubuntu 22 for Raspberry Pi 4
+# Appwrite self Hosting Development in Ubuntu 22 for Raspberry Pi 4 POC
 ---
 ![Logo](./RaspberryPi_20241220_012346_0000.png)
 ## Table of Contents
