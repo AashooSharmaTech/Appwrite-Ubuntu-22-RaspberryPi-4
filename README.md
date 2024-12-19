@@ -1,7 +1,7 @@
 
 # Appwrite self Hosting Setup in Ubuntu 22 for Raspberry Pi 4
 ---
-
+![Logo](./RaspberryPi_20241220_012346_0000.png)
 ## Table of Contents
 
 - [First Setup for Appwrite](#first-setup-for-appwrite)
@@ -25,4 +25,4 @@ This section covers additional setup steps for Appwrite, such as configuring int
 
 ---
 
-any help regarding this setup contact us:- Aashoo Sharma
+any help regarding this setup contact us:- [🧑🏻‍💻Aashoo Sharma](https://in.linkedin.com/in/aashoosharma)
